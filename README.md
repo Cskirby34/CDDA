@@ -1,3 +1,3 @@
 ## CDDA
-*Password Holder Website*
-git
+## Password Library
+### A password manager that saves your username/email and password for specific website.
